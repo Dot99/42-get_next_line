@@ -5,7 +5,6 @@
 	<h1>Description</h1>
 	<p>The objective of this project is to write a function that returns a line read from a
 file descriptor</p>
-	<h1><a href="subject.pdf">Subject</a><h2>
 </div>
 
 <div align="center">
